@@ -24,4 +24,4 @@ def password_validator(password):
         return password
 
 #print(f"Your password is good to go!")
-print(password_validator("caDeau@7"))
+#print(password_validator(""))
